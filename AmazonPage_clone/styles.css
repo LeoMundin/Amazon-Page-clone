@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto ;
+
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.p_breadcrumb{
+    font-size:smaller;
+    color: #565959;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    max-width: 350px;
+    
+}
+
+.img_ratings{
+    width: 120px;
+}
+
+.div_mainContent{
+    display: flex;
+}
+
+.column{
+    margin: 20px;
+}
+
+.a_author{
+    color: #007185;
+}
